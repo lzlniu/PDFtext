@@ -1,0 +1,625 @@
+Downloaded from http://rspb.royalsocietypublishing.org/ on September 29, 2018
+rspb.royalsocietypublishing.org
+Research
+Cite this article: Leles SG et al. 2017 Oceanic
+protists with different forms of acquired
+phototrophy display contrasting
+biogeographies and abundance. Proc. R. Soc. B
+284: 20170664.
+http://dx.doi.org/10.1098/rspb.2017.0664
+Oceanic protists with different forms of
+acquired phototrophy display contrasting
+biogeographies and abundance
+S. G. Leles1, A. Mitra1, K. J. Flynn1, D. K. Stoecker2, P. J. Hansen3, A. Calbet4,
+G. B. McManus5, R. W. Sanders6, D. A. Caron7,F.Not8, G. M. Hallegraeff 9,
+P. Pitta10,J.A.Raven11,12, M. D. Johnson13, P. M. Glibert2 and S. Va\U02DAge14
+1Biosciences, Swansea University, Singleton Park, Swansea SA2 8PP, UK
+2Horn Point Laboratory, University of Maryland Center for Environmental Science, Cambridge, MD 21613, USA
+3Marine Biological Section, University of Copenhagen, 3000 Helsing\U00F8r, Denmark
+4Institut de Cie`ncies del Mar, CSIC. Pg Mar\U0131\U00B4tim de la Barceloneta 37-49, 08003, Barcelona, Spain
+5Department of Marine Sciences, University of Connecticut, Groton CT, 06340, USA
+6Department of Biology, Temple University, Philadelphia, PA 19122, USA
+7Department of Biological Sciences, University of Southern California, Los Angeles, CA 90089-0371, USA
+8UPMC Universite\U00B4 Paris 06, CNRS, Laboratoire Adaptation et Diversite\U00B4 en Milieu Marin UMR7144, Sorbonne
+Received: 29 March 2017
+Accepted: 28 June 2017
+Universite\U00B4s, Station Biologique de Roscoff, 29688 Roscoff, France
+9Institute for Marine and Antarctic Studies, University of Tasmania, Private Bag 129, Hobart,
+Tasmania 7001, Australia
+10Hellenic Centre for Marine Research, Institute of Oceanography, 71003 Heraklion, Crete, Greece
+11Division of Plant Science, University of Dundee at the James Hutton Institute, Invergowrie,
+Subject Category:
+Ecology
+Subject Areas:
+ecology
+Keywords:
+biogeography, mixotrophy, acquired
+phototrophy, kleptoplasty, photosymbiosis,
+marine protists
+Author for correspondence:
+A. Mitra
+e-mail: a.mitra@swansea.ac.uk
+Dundee DD2 5DQ, UK
+12Climate Change Cluster, University of Technology Sydney, Ultimo, New South Wales 2007, Australia
+13Department of Biology, Woods Hole Oceanographic Institution, Woods Hole, MA 02543, USA
+14Department of Biology, University of Bergen, 5020 Bergen, Norway
+AM, 0000-0001-5572-9331; KJF, 0000-0001-6913-5884; AC, 0000-0003-1069-212X;
+GBM, 0000-0002-2768-1286; RWS, 0000-0001-7264-1059; GMH, 0000-0001-8464-7343;
+JAR, 0000-0002-2789-3297; PMG, 0000-0001-5690-1674
+This first comprehensive analysis of the global biogeography of marine protistan
+plankton with acquired phototrophy shows these mixotrophic organisms
+to be ubiquitous and abundant; however, their biogeography differs markedly
+between different functional groups. These mixotrophs, lacking a constitutive
+capacity for photosynthesis (i.e. non-constitutive mixotrophs, NCMs), acquire
+their phototrophic potential through either integration of prey-plastids or
+through endosymbiotic associations with photosynthetic microbes. Analysis
+of field data reveals that 40\U201360% of plankton traditionally labelled as (nonphototrophic)
+microzooplankton are actually NCMs, employing acquired
+phototrophy in addition to phagotrophy. Specialist NCMs acquire chloroplasts
+or endosymbionts from specific prey, while generalist NCMs obtain
+chloroplasts from a variety of prey. These contrasting functional types of
+NCMs exhibit distinct seasonal and spatial global distribution patterns.
+Mixotrophs reliant on \U2018stolen\U2019 chloroplasts, controlled by prey diversity and
+abundance, dominate in high-biomass areas. Mixotrophs harbouring intact
+symbionts are present in all waters and dominate particularly in oligotrophic
+open ocean systems. The contrasting temporal and spatial patterns of distribution
+of different mixotroph functional types across the oceanic provinces,
+as revealed in this study, challenges traditional interpretations of marine
+food web structures. Mixotrophs with acquired phototrophy (NCMs) warrant
+greater recognition in marine research.
+Electronic supplementary material is available
+online at http://dx.doi.org/10.6084/m9.
+figshare.c.3827953.
+1. Background
+Primary production in the oceans is critical for life on the Earth, with almost half of
+global photosynthesis undertaken by marine plankton [1]. This production is traditionally
+viewed as mediated by \U2018plant-like\U2019 phytoplankton, which are in turn
+& 2017 The Author(s) Published by the Royal Society. All rights reserved.
+
+Downloaded from http://rspb.royalsocietypublishing.org/ on September 29, 2018
+(a)
+2
+GNCMs
+(b)
+*
+*
+*
+*
+pSNCMs
+(c)
+eSNCMs
+Figure 1. Global distribution of protists with acquired phototrophy (non-constitutive mixotrophs, NCMs). Functional groups identify protists which acquire plastids
+from a variety of prey (generalist NCMs, GNCMs; blue (a)), from specific prey ( plastidic specialist NCMs, pSNCMs; red (b)), or enslave entire specific autotrophic prey
+as symbionts (endosymbiotic SNCMs, eSNCMs; green (c)). Images next to each map provide protist genus examples within each functional group. From left to right
+(size as length): (a) GNCMs Laboea (100 mm) and Strombidium (50 mm); (b) pSNCMs, Mesodinium (60 mm) and Dinophysis (40 mm); (c) eSNCMs, Sphaerozoum
+(200 mm) and Noctiluca (500 mm). On maps, symbols correspond to the exact location where mixotrophic species/taxa were found (from more than 110 000
+records); the grid indicates biogeographic provinces. Colour-cast provinces indicate the presence of NCMs and white provinces correspond to the absence. Provinces
+marked with asterisks indicate that studies conducted in these areas did not record the presence of mixotrophic species; unmarked white provinces indicate a lack of
+field studies providing information on acquired phototrophy among microzooplankton.
+grazed by \U2018animal-like\U2019 zooplankton. However, it is now recognized
+that a large proportion of marine plankton do not follow
+this traditional \U2018plant\U2013animal\U2019 dichotomy but are actually
+mixotrophic protists\U2014single-celled organisms that can perform
+both photosynthesis and phagocytosis simultaneously [2\U20135].
+In reflection of this shift in our understanding of the marine
+trophic paradigm, a new functional group classification of
+marine planktonic protists has been proposed [6] in which
+mixotrophic protists are broadly divided into constitutive
+mixotrophs (i.e. those that have a constitutive ability to photosynthesize;
+CMs), and non-constitutive mixotrophs (i.e. those
+that donot possess an innate ability tophotosynthesize;NCMs).
+The CM group conforms to the popular perception of a
+planktonic mixotroph as a \U2018plant that eats\U2019 [7\U20139]. This group
+includes many harmful algal bloom (HAB) species, which
+have traditionally been considered strictly phototrophic [9].
+NCMs, on the other hand, acquire the ability to photosynthesize
+either by \U2018stealing\U2019 and using plastids from a variety of prey
+(generalists; GNCMs) or acquiring plastids from specific prey
+(plastidic specialists; pSNCMs); in some instances, they harbour
+intact photosynthetic prey as symbionts (endosymbiotic
+specialists; eSNCMs) [10\U201312]. However, the presence and
+importance of NCMs is often overlooked, except for some
+notable cases such as the ciliate Mesodinium rubrum and the
+HAB dinoflagellates \U2018green Noctiluca\U2019and Dinophysis [13\U201316].
+Here, we report the first analysis of the global biogeography
+of non-constitutive mixotrophs\U2014marine predatory
+plankton that exploit/use/recycle the photosynthetic machinery
+of their prey. Our analysis shows that these organisms are
+not only ubiquitous and abundant, but their biogeography
+differs markedly between the different groups. Our study
+establishes NCMs as important members of marine planktonic
+food webs across different biogeographic provinces at large
+spatial and temporal scales.
+2. Methods
+We conducted a global analysis of field data for the different
+groups of non-constitutive mixotrophs (NCMs); see the electronic
+supplementary material for detailed methods. Species were classified
+a priori to the GNCM, pSNCM and eSNCM groups according
+to their physiology. We adapted the Longhurst biogeographic
+classification system for oceanic provinces (electronic supplementary
+material, figure S1 and table S1) [17]; these provinces were
+grouped into seven principal biomes according to primary production
+and physical forcing. Coordinates corresponding to the
+locations where mixotrophic species had been recorded were
+aligned with these biogeographic provinces.
+Qualitative data were obtained mainly from the Ocean
+Biogeographic Information System (OBIS) database; over 110 000
+distribution records of greater than 60 species were obtained
+rspb.royalsocietypublishing.org
+Proc. R. Soc. B 284: 20170664
+
+Downloaded from http://rspb.royalsocietypublishing.org/ on September 29, 2018
+(a)
+stress = 0.05
+1
+0
+TS
+PS
+MS
+\U20131
+GNCMs
+pSNCMs
+eSNCMs
+\U20131
+0
+NMDS 1
+1
+CS
+OG
+CU
+EU
+(c)
+100
+75
+50
+25
+0
+variance NPP (mg C m\U20133 d\U20131)
+0.10 0.15 0.20
+0 0.05
+Figure 2. Differences in the biogeography of non-constitutive mixotrophs (NCMs). (a) Results from the NMDS analysis showing the ordination of species and biomes
+in a two-dimensional space. Species were classified according to the non-constitutive mixotroph functional groups (GNCMs, pSNCMs and eSNCMs). Each symbol
+represents an NCM species; different symbols and dashed ellipses (at 80% CI) represent different functional groups. The different biomes are: MS, Mediterranean
+Sea; PS, Polar Seas; TS, Temperate Seas; CS, Coastal Seas; OG, Oligotrophic Gyres; CU, Coastal Upwelling; EU, Equatorial Upwelling (see also the electronic
+supplementary material, figure S3). (b,c) Relative contribution of mixotrophs (% biomass) as a function of (b) nutrient load and (c) system variability. Contribution
+of mixotrophic ciliate biomass (GNCMs \U00FE the pSNCM Mesodinium; purple) is plotted relative to total ciliate biomass while contribution of mixotrophic Rhizarian
+biomass (green) is presented relative to total Rhizarian biomass. Annual average and variance of net primary productivity (NPP) were used as a proxy for nutrient
+load and system variability, respectively (data obtained from [17]); each symbol represents a biogeographic province (see also the electronic supplementary
+material). Loess regressions were fitted to data using R package ggplot2; 95% CIs shown.
+(electronic supplementary material, table S2). Quantitative data
+were obtained through a bibliographic survey of the published
+literature (1970 to present) using the ISI Web of Science database
+on 13 March 2017. We targeted works from which the quantitative
+contribution of mixotrophs to the microzooplankton assemblage
+could be estimated. Over 180 articles were examined (electronic
+supplementary material, table S3), of which approximately 45
+articles provided quantitative data for mixotrophic oligotrich ciliates
+(GNCMs) and the mixotrophic Mesodinium spp. (pSNCM),
+hereafter referred to as Mesodinium (electronic supplementary
+material, table S4). The relative contribution of mixotrophic
+Rhizaria (eSNCMs) to the planktonic assemblage within the
+topmost 100 m was estimated from recent research that used a
+non-destructive in situ imaging system [18].
+Non-metric multidimensional scaling (NMDS) was used to
+explore dissimilarities between non-constitutive mixotrophic
+species according to their spatial distributions. For this analysis,
+we used the qualitative data (electronic supplementary material,
+table S2) to build a presence\U2013absence matrix of species occurrences
+across the different provinces and biomes (electronic
+supplementary material, table S1). The quantitative distribution
+of the NCMs across the seven biomes was also analysed, as
+was the seasonal progression of biomass for mixotrophic ciliates
+(both GNCMs and pSNCMs) and Rhizaria (eSNCMs). Two-way
+ANOVAs were conducted to compare mixotrophic biomass (relative
+and absolute values) across time and space. All analyses
+were carried out using R software [19].
+3. Results
+Our analysis revealed that acquired phototrophy is ubiquitous
+in the global oceans; however, the biogeography of the three
+functional groups differed markedly (figure 1). While the
+eSNCMs were observed to be widely distributed, GNCMs
+and pSNCMs were more restricted spatially (figure 1a,b
+versus figure 1c). Indeed, each of the three major plankton
+taxa within the eSNCM functional grouping (dinoflagellates,
+Radiolaria and Foraminifera) has a wider distribution than
+the GNCMs and the pSNCMs (electronic supplementary
+material, figure S2).
+The NMDS analysis based on the dissimilarities among
+species distributions (derived from their presence or absence
+within the biogeographic provinces) revealed species clustered
+together according to the NCM functional groups (figure 2a).
+Notably, pSNCMs were positioned between the GNCMs and
+eSNCMs; certain pSNCM species (e.g. Amylax triacantha
+and Dinophysis mitra) were closer to the GNCMs, while
+others (e.g. Mesodinium rubrum and Dinophysis acuminata)
+were closer to the eSNCMs. Spatially, while GNCMs were
+mainly associated with the Temperate Seas, Polar Seas and
+Mediterranean Sea biomes, eSNCMswere primarily associated
+with the Oligotrophic Gyres, Coastal Upwelling and Equatorial
+Upwelling biomes (figure 2a). The eSNCM distribution
+was observed to follow two distinctly diverse patterns; one
+group was closely related to the Equatorial Upwelling biome,
+while a second cosmopolitan group occurred in the intersection
+between most biomes (figure 2a). The Coastal Sea biome
+was not associated with any single functional group; all the
+NCM functional groups occurred at least in one biogeographic
+province within this biome. Our results suggest that the
+contribution of mixotrophic ciliates increases towards more
+productive and less variable systems, while the opposite pattern
+is expected for mixotrophic Rhizaria (figure 2b,c; see also
+the electronic supplementary material).
+The quantitative data analysis revealed that the biomass
+contribution of acquired phototrophy across biomes varied
+(b)
+100
+75
+50
+25
+0
+0.2 0.4
+3
+ciliates
+Rhizaria
+mean NPP (mg C m\U20133 d\U20131)
+0.6 0.8
+rspb.royalsocietypublishing.org
+Proc. R. Soc. B 284: 20170664
+NMDS 2
+% biomass as mixotrophs
+% biomass as mixotrophs
+
+Downloaded from http://rspb.royalsocietypublishing.org/ on September 29, 2018
+(a)
+30
+20
+10
+0
+(b)
+30
+20
+10
+0
+(c)
+n = 629
+Coastal Seas
+30
+20
+10
+0
+winter spring summer autumn
+Figure 3. Spatial and temporal distribution of protists with acquired phototrophy.
+(a) GNCM ciliates, (b) pSNCM Mesodinium spp., (c) eSNCM Rhizaria.
+Seasonal biomass abundance for each group is shown across different biomes
+(note that biomass units in (a,b) are different from (c)); n indicates the total
+number of observations used. No published data were available for the
+Coastal Upwelling biome.
+according to the functional groups in a similar fashion as did
+their presence/absence (figure 3; electronic supplementary
+material, S4\U2013S6 and tables S5\U2013S6). The absolute biomass of
+GNCMs was highest during summer within the Mediterranean
+Sea biome (figure 3a), making up 70% of total ciliate
+biomass (electronic supplementary material, figure S6). The
+absolute pSNCM biomass (represented by Mesodinium)was
+highest during spring in the Coastal Seas biome (figure 3b),
+encompassing up to 80% of total ciliate biomass (electronic
+supplementary material, figure S6). The highest absolute biomass
+values of mixotrophic Rhizaria (eSNCMs) were
+observed during autumn within the Equatorial Upwelling
+biome (figure 3c). Lower absolute biomass values were
+observed within the Coastal Seas and Mediterranean Sea
+Equatorial Upwelling
+Mediterranean Sea
+Oligotrophic Gyres
+Polar Seas
+Temperate Seas
+n =39
+4. Discussion
+From our analysis, we conclude that mixotrophic plankton
+with acquired phototrophy are prevalent across all ocean
+biomes, from polar to tropical regions, and from coastal to
+oceanic environments, in both hemispheres (figure 1). However,
+the distribution patterns of the three functional types
+(i.e. GNCMs, pSNCMs and eSNCMs) differed markedly
+among provinces and also displayed seasonal variation. There
+was no obvious latitudinal constraint on the occurrence
+of GNCMs and pSNCMs (figure 1a,b). However, most records
+for these functional groups were from studies of coastal
+environments; there are very few reports of these groups
+within oceanic systems, particularly from within oligotrophic
+gyres [5,20,21]. By contrast, eSNCMswere present across all latitudinal
+and coastal-oceanic gradients [5,18,22], with Radiolaria
+and Foraminifera dominating oceanic waters at low latitudes
+(08\U2013308 N and S; figure 1c). Quantitatively, the relative contribution
+of GNCMs to total ciliate assemblage (abundance and
+biomass) was lower in low latitudes (electronic supplementary
+material, figure S7), while the contribution of mixotrophic
+Rhizaria to total Rhizaria assemblage has been observed to
+decrease towards the higher latitudes [18].
+Protists with acquired phototrophy occur in an ecophysiological
+continuum from species that have low or moderate
+control over the acquired phototrophic machinery (GNCMs
+and pSNCMs, respectively) to those that can strongly regulate
+phototrophy by control of their endosymbiont populations
+(eSNCMs) [5,6,11]. Our results suggest that these differences
+are reflected in their biogeography (figure 2a). For example,
+pSNCM species with lower physiological control over their
+acquired plastids (e.g. A. triacantha and D. mitra) were closer
+in the NMDS analysis to the GNCMs, while those with a
+higher level of control (e.g. M. rubrum and D. acuminata) were
+closer to the eSNCMs from coastal regions (figure 2a) [23,24].
+While GNCMs and pSNCMs share biogeographies that are
+similar and somewhat restricted to neritic regions, temporal
+and spatial differences can be drawn between them. Within
+temperate seas, GNCMs tend to dominate after the
+phytoplankton bloom, particularly in summer, under stratified
+water column conditions, while pSNCMs are more commonly
+encountered during spring, in nutrient-replete conditions
+(figure 3a,b). Mesodinium also thrive in upwelling zones, largely
+due to their high rates of phototrophic growth in nutrient-rich
+waters [12,23]. By contrast, GNCMs are usually outnumbered
+by heterotrophic ciliates (mainly tintinnids) in upwelling
+regions [25]. The striking dominance of eSNCMs among
+n =36
+biomes (figure 3c); the mixotrophic Rhizaria contributed
+up to 65% of total Rhizaria biomass within these regions
+(electronic supplementary material, figure S6).
+While there is a paucity of data for GNCMs and Mesodinium
+within certain oceanic regions and/or periods of the
+year (electronic supplementary material, table S5), we carried
+out the ANOVAs to gain a basic understanding of the impact
+of seasonality and/or biomes on their biogeographies. These
+ANOVAs (electronic supplementary material, table S7)
+suggest that the combined effect of biome and season on
+Mesodinium (absolute biomass) and mixotrophic Rhizaria
+(absolute and relative biomass) was significant. The
+ANOVA of relative biomass of GNCMs showed a significant
+effect only when considering seasonality.
+4
+rspb.royalsocietypublishing.org
+Proc. R. Soc. B 284: 20170664
+Rhizaria biomass (\U00D7102 mg C m\U20132)
+Mesodinium biomass (mg C l\U20131)
+GNCM biomass (mg C l\U20131)
+
+Downloaded from http://rspb.royalsocietypublishing.org/ on September 29, 2018
+mixotrophs in less productive ecosystems with low abiotic
+variability (figure 2b versus figure 2c), such as within the oligotrophic
+open ocean, underscores the importance of resource
+partitioning and symbiosis in these lownutrient environments,
+and further helps to explain the anomalous preponderance of
+large cells there [26]. The limited success of GNCMs in these
+conditions could be attributed to the low availability of prey,
+which is detrimental to growth of the GNCMs as they rely on
+a near-constant supply of prey for acquired phototrophy as
+well as for essential nutrients [5,11] (figure 2b,c).
+Acquired phototrophy among microzooplankton has been
+typically neglected in field and modelling studies; NCMs have
+hitherto not been considered a major component of the microzooplankton.
+According to our analysis, when we calculated
+the average contribution of mixotrophs across temporal
+and spatial scales, the mixotrophic ciliates (GNCMs \U00FE the
+pSNCM Mesodinium) contribute approximately 45% to the
+total ciliate numeric abundance, and approximately 40% of
+total ciliate biomass (electronic supplementary material,
+figure S4). A previous study estimated that approximately
+30% of the numeric abundance of marine oligotrich ciliates
+globally were mixotrophic (i.e. GNCMs) [27]. Among the
+eSNCMs, nearly half of total Rhizaria biomass is composed
+of mixotrophic taxa across all temporal and spatial scales (electronic
+supplementary material, figure S5). Importantly, our
+analysis reveals great variation not only in the presence of mixotrophs
+temporally and spatially, but also on which mixotroph
+functional group dominates which biome during specific
+seasons. While, for simplicity, one may wish to refer to a
+single numeric value defining mixotroph abundance, our
+study indicates the danger of doing so, especially when conducting
+modelling studies in support of ecosystem
+management (e.g. HABs, fisheries and biogeochemistry).
+The proposed new mixotroph-centric paradigm for marine
+ecology [6,28] envisions a high proportion ofmarine planktonic
+protists expressing mixotrophy, with a consequential more fully
+embedded, intertwined set of interactions within the microbial
+loop [29] than previously appreciated. There is an important
+contrast in physiology, and thence ecology, among protists
+with acquired phototrophy (NCMs; i.e. \U2018animals that photosynthesize\U2019),
+and also between these and the better-studied
+constitutive mixotrophs (i.e. \U2018plants that eat\U2019; the CMs). In the
+upper water column, activity by GNCMs can shorten and
+thus potentially increase the efficiency of energy transfer along
+pelagic food webs [5,6,11]. In the open ocean, eSNCMs include
+References
+1. Field CB, Behrenfeld MJ, Randerson JT, Falkowski P.
+1998 Primary production of the biosphere:
+integrating terrestrial and oceanic components.
+Science 281, 237\U2013240. (doi:10.1126/science.281.
+5374.237)
+2. Zubkov MV, Tarran GA. 2008 High bacterivory by
+the smallest phytoplankton in the North Atlantic
+Ocean. Nature 455, 224\U2013226. (doi:10.1038/
+nature07236)
+3. Kirchman DL. 2012 Processes in microbial ecology.
+New York, NY: Oxford University Press.
+4. Flynn KJ, Stoecker DK, Mitra A, Raven JA, Glibert PM,
+Hansen PJ, Grane\U00B4li E, Burkholder JM. 2013 Misuse of
+the phytoplankton\U2013zooplankton dichotomy: the
+need to assign organisms as mixotrophs within
+plankton functional types. J. Plankton Res. 35,3\U201311.
+(doi:10.1093/plankt/fbs062)
+5. Stoecker DK, Hansen PJ, Caron DA, Mitra A. 2017
+Mixotrophy in the marine plankton. Annu. Rev. Mar.
+Sci. 9, 311\U2013335. (doi:10.1146/annurev-marine010816-060617)
+6.
+Mitra A et al. 2016 Defining planktonic protist
+functional groups on mechanisms for energy and
+nutrient acquisition: incorporation of diverse
+mixotrophic strategies. Protist 167, 106\U2013120.
+(doi:10.1016/j.protis.2016.01.003)
+7. Burkholder JM, Glibert PM, Skelton HM. 2008
+Mixotrophy, a major mode of nutrition for harmful
+algal species in eutrophic waters. Harmful Algae 8,
+77\U201393. (doi:10.1016/j.hal.2008.08.010)
+8. Hartmann M, Grob C, Tarran GA, Martin AP, Burkill
+PH, Scanlan DJ. 2012 Mixotrophic basis of Atlantic
+oligotrophic ecosystems. Proc. Natl Acad. Sci. USA
+109, 5756\U20135760. (doi:10.1073/pnas.1118179109)
+9. Figueiras FG, Espinoza-Gonza\U00B4lez O, Arbones B,
+Garrido JL, Teixeira IG, Castro CG. 2014 Estimating
+phytoplankton size-fractionated primary production
+in the northwestern Iberian upwelling: is
+mixotrophy relevant in pigmented nanoplankton?
+giant photosynthetic protists that contribute significantly tovertical
+carbon flux, influencing the biological carbon pump
+[18,28,30,31]. In eutrophic coastal regions, some pSNCMs and
+eSNCMs form extensive blooms. Blooms of the pSNCM ciliate
+Mesodinium spp. are of particularly concern, because they can
+act as biogeochemical hotspots and are the source of the phototrophic
+capability of the toxicogenic pSNCM, Dinophysis spp.
+[32,33]. Dinophysis, an organism colloquially considered as
+an alga rather than a microzooplankter with acquired phototrophy,
+causes diarrhetic shellfish poisoning, which can be
+responsible for closures of shellfish aquaculture operations
+[14,16]. In the Arabian Sea, shifts from diatom blooms to those
+of the eSNCM \U2018green Noctiluca\U2019 are circumstantially associated
+with hypoxia, and may adversely affect fisheries in a coastal
+ecosystem supporting 120 million people [15].
+In conclusion, diverse physiological and ecological properties
+are associatedwith various modes of acquiredphototrophy.
+Our biogeographic analysis of plankton communities across the
+world\U2019s oceans highlights the prevalence of planktonic protists
+with acquired phototrophy through symbiotic associations
+with prey or enslavement of their organelles. Thus, it is critically
+important that appropriate NCM functional subgroups are
+represented within conceptual and mathematical models supporting
+marine research across all spatial and temporal scales
+of observation. To support such action, it is necessary for surveys
+and monitoring studies to routinely document the
+presence of these organisms, to expect to find them rather
+than consider them apriori as novelties.
+Data accessibility. The original (raw) data are available as referenced.
+Processed data are provided as electronic supplementary material.
+Authors\U2019 contributions. The concept of this work arose from a workshop
+involving all authors except S.G.L. S.G.L. compiled the data and conducted
+the analysis guided by all authors and drafted the original
+manuscript under the guidance of A.M. and K.J.F. All authors
+contributed to building the manuscript to its final state.
+Competing interests. We have no competing interests.
+Funding. This work was supported by the Leverhulme Trust (International
+Network grant no. F00391 V) granted to K.J.F. and A.M.
+A.C. was funded by project FERMI (CGL2014-59227-R) from the
+Spanish Ministry of Economy and Competitiveness, co-funded with
+FEDER funds from the EU. This is contribution no. 5385 from the
+University of Maryland Center for Environmental Science. F.N. was
+funded by the ANR-15-CE02-0011-01 project IMPEKAB. S.G.L. was
+funded by the Brazilian government programme Science Without
+Borders through CNPq.
+5
+rspb.royalsocietypublishing.org
+Proc. R. Soc. B 284: 20170664
+
+Downloaded from http://rspb.royalsocietypublishing.org/ on September 29, 2018
+Prog. Oceanogr. 128, 88\U201397. (doi:10.1016/j.pocean.
+2014.08.011)
+10. Okamoto N, Inouye I. 2005 A secondary symbiosis in
+progress? Science 310, 287. (doi:10.1126/science.
+1116125)
+11. Stoecker DK, Johnson MD, De Vargas C, Not F. 2009
+Acquired phototrophy in aquatic protists. Aquat.
+Microb. Ecol. 57, 279\U2013310. (doi:10.3354/ame01340)
+12. Johnson MD. 2011 The acquisition of phototrophy:
+adaptive strategies of hosting endosymbionts and
+organelles. Photosynth. Res. 107, 117\U2013132. (doi:10.
+1007/s11120-010-9546-8)
+13. Harrison PJ et al. 2011 Geographical distribution of
+red and green Noctiluca scintillans. Chinese
+J. Oceanol. Limnol. 29, 807\U2013831. (doi:10.1007/
+s00343-011-0510-z)
+14. Reguera B, Velo-Sua\U00B4rez L, Raine R, Park MG. 2012
+Harmful Dinophysis species: a review. Harmful Algae
+14, 87\U2013106. (doi:10.1016/j.hal.2011.10.016)
+15. do Rosa\U00B4rio Gomes H, Goes JI, Matondkar SGP,
+Buskey EJ, Basu S, Parab S, Thoppil P. 2014 Massive
+outbreaks of Noctiluca scintillans blooms in the
+Arabian Sea due to spread of hypoxia. Nat.
+Commun. 5, 4862. (doi:10.1038/ncomms5862)
+16. Mafra LL, Tavares CP dos S, Schramm MA. 2014
+Diarrheic toxins in field-sampled and cultivated
+Dinophysis spp. cells from southern Brazil. J. Appl.
+Phycol. 26, 1727\U20131739. (doi:10.1007/s10811-0130219-9)
+17.
+Longhurst A. 2007 Ecological geography of the sea,
+2nd edn. San Diego, CA: Academic Press.
+18. Biard T et al. 2016 In situ imaging reveals the
+biomass of giant protists in the global ocean.
+Nature 532, 504\U2013507. (doi:10.1038/nature17652)
+19. R Core Team. 2016 R: a language and environment
+for statistical computing. Vienna, Austria:
+R Foundation for Statistical Computing.
+20. Stoecker DK, Gustafson DE, Verity PG. 1996 Microand
+mesoprotozooplankton at 1408 W in the
+equatorial Pacific: heterotrophs and mixotrophs.
+Aquat. Microb. Ecol. 10, 273\U2013282. (doi:10.3354/
+ame010273)
+21. Rychert K, Nawacka B, Majchrowski R, Zapadka T. 2014
+Latitudinal pattern of abundance and composition of
+ciliate communities in the surfacewaters of the Atlantic
+Ocean. Oceanol. Hydrobiol. Stud. 43, 436\U2013441. (doi:10.
+2478/s13545-014-0161-8)
+22. Tarangkoon W, Hansen G, Hansen PJ. 2010 Spatial
+distribution of symbiont-bearing dinoflagellates in
+the Indian Ocean in relation to oceanographic
+regimes. Aquat. Microb. Ecol. 58, 197\U2013213. (doi:10.
+3354/ame01356)
+23. Hansen PJ, Nielsen LT, Johnson M, Berge T, Flynn
+KJ. 2013 Acquired phototrophy in Mesodinium and
+Dinophysis\U2014a review of cellular organization, prey
+selectivity, nutrient uptake and bioenergetics.
+Harmful Algae 28, 126\U2013139. (doi:10.1016/j.hal.
+2013.06.004)
+24. Hattenrath-Lehmann T, Gobler CJ. 2015 The
+contribution of inorganic and organic nutrients to
+the growth of a North American isolate of the
+mixotrophic dinoflagellate, Dinophysis acuminata.
+Limnol. Oceanogr. 60, 1588\U20131603. (doi:10.1002/
+lno.10119)
+25. Chang FH. 1990 Quantitative distribution of
+microzooplankton off Westland, New Zealand. New
+Zeal. J. Mar. Freshw. Res. 24, 187\U2013195. (doi:10.
+1080/00288330.1990.9516414)
+26. Selosse M-A, Charpin M, Not F. 2016 Mixotrophy
+everywhere on land and in water: the grand e\U00B4cart
+hypothesis. Ecol. Lett. 20, 246\U2013263. (doi:10.1111/
+ele.12714)
+27. Dolan JR, Pe\U00B4rez MT. 2000 Costs, benefits and
+characteristics of mixotrophy in marine oligotrichs.
+Freshw. Biol. 45, 227\U2013238. (doi:10.1046/j.13652427.2000.00659.x)
+28.
+Mitra A et al. 2014 The role of mixotrophic protists
+in the biological carbon pump. Biogeosciences 11,
+995\U20131005. (doi: 10.5194/bg-11-995-2014)
+29. Jiao N et al. 2014 Mechanisms of microbial carbon
+sequestration in the ocean\U2014future research
+directions. Biogeosciences 11, 5285\U20135306. (doi:10.
+5194/bg-11-5285-2014)
+30. Lampitt RS, Salter I, Johns D. 2009 Radiolaria:
+major exporters of organic carbon to the deep
+ocean. Glob. Biogeochem. Cycles 23, 1\U20139. (doi:10.
+1029/2008GB003221)
+31. de Vargas C et al. 2015 Eukaryotic plankton diversity
+in the sunlit ocean. Science 348, 1\U201311. (doi:10.
+1126/science.1261605)
+32. Herfort L, Peterson TD, Prahl FG, McCue LA,
+Needoba JA, Crump BC, Roegner GC, Campbell V,
+Zuber P. 2012 Red waters of Myrionecta rubra are
+biogeochemical hotspots for the Columbia River
+Estuary with impacts on primary/secondary
+productions and nutrient cycles. Estuaries Coasts 35,
+878\U2013891. (doi:10.1007/s12237-012-9485-z)
+33. Kim M, Nam SW, Shin W, Coats DW, Park MG. 2012
+Dinophysis caudata (Dinophyceae) sequesters and
+retains plastids from the mixotrophic ciliate prey
+Mesodinium rubrum. J. Phycol. 48, 569\U2013579.
+(doi:10.1111/j.1529-8817.2012.01150.x)
+6
+rspb.royalsocietypublishing.org
+Proc. R. Soc. B 284: 20170664
+
